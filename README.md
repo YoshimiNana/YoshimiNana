@@ -9,7 +9,7 @@
 
 ## 資格 / スキル
 - 実用英語技能検定2級
-- SIGNATE Expert　https://signate.jp/users/80938
+- SIGNATE Expert　[プロフィール](https://signate.jp/users/80938)
 
 
 <!--
