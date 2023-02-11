@@ -1,6 +1,6 @@
 ## プロフィール
 - 名前：吉見 菜那（Yoshimi Nana）
-- 所属：愛媛大学 工学部 工学科 コンピュータ科学コース 人工知能研究室
+- 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
 - Email：yoshimi@ai.cs.ehime-u.ac.jp
 
 ## 研究実績
