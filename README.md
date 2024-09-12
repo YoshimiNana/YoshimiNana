@@ -6,7 +6,7 @@
 ## 研究実績
 - 吉見菜那, 梶原智之, 荒瀬由紀, 内田諭, 二宮崇. 英単語穴埋め問題における選択肢の自動生成に向けて. NLP若手の会第17回シンポジウム, P5-9, August 2022.
 - 田中康介, 吉見菜那, 梶原智之, 内田諭, 荒瀬由紀. マスク言語モデルによる英文空所補充問題の解答能力に関する分析. 情報処理学会第85回全国大会, pp.707-708, March 2023. 【学生奨励賞】
-- 吉見菜那, 梶原智之, 内田諭, 荒瀬由紀, 二宮崇. 問題タイプを考慮した英単語穴埋め問題の不正解選択肢の自動生成. 言語処理学会第29回年次大会, pp.217-221, March 2023. 【委員特別賞】
+- 吉見菜那, 梶原智之, 内田諭, 荒瀬由紀, 二宮崇. 問題タイプを考慮した英単語穴埋め問題の不正解選択肢の自動生成. 言語処理学会第29回年次大会, pp.217-221, March 2023. 【[委員特別賞](https://www.anlp.jp/nlp2023/award.html)】
 - Nana Yoshimi, Tomoyuki Kajiwara, Satoru Uchida, Yuki Arase, Takashi Ninomiya. Distractor Generation for Fill-in-the-Blank Exercises by Question Type. In Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, July 2023.（採択率34%）  [論文のリンク](https://aclanthology.org/2023.acl-srw.38)
 - 吉見菜那, 梶原智之, 内田諭, 荒瀬由紀, 二宮崇, 問題タイプを考慮した教師あり学習による英単語穴埋め問題の自動生成. 第19回言語処理若手シンポジウム（YANS）, S1-P08, September 2024.
 
