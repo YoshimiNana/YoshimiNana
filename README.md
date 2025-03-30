@@ -1,7 +1,6 @@
 ## プロフィール
 - 名前：吉見 菜那（Yoshimi Nana）
 - 所属：愛媛大学 理工学研究科 理工学専攻 数理情報プログラム [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
-- Email：yoshimi@ai.cs.ehime-u.ac.jp
 
 ## 研究実績
 - 吉見菜那, 梶原智之, 荒瀬由紀, 内田諭, 二宮崇. 英単語穴埋め問題における選択肢の自動生成に向けて. NLP若手の会第17回シンポジウム, P5-9, August 2022.
